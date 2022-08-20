@@ -30,3 +30,5 @@ Pull requestler kabul edilir. Buyuk degisiklik icin, lutfen once neyi degistirme
 ## **Licence**
 
 [MIT](https://choosealicense.com/)
+
+![](https://i.im.ge/2022/08/20/OIxAf0.Goruntu-000031A.png)
